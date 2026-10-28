@@ -1,6 +1,7 @@
 ### Tianna Zhang
 
-人工智能专业本科生（2027 届），方向是计算机视觉里的文档图像理解：定位、校正、为 OCR 准备好一张干净的图。
+人工智能专业本科生（2027 届），方向是AIGC、计算机视觉、机器学习，要在钢铁洪流中做人类情感的纽带。
+世界上最伟大的不是算法和代码，而是爱。
 English: AI undergrad working on document image understanding - rectification, geometry, and the pre-processing stage that decides whether OCR works at all.
 
 I keep this account small on purpose: a few repos I can defend line by line in an interview, each with tests that run in CI and numbers I measured myself rather than estimated.
