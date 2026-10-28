@@ -3,7 +3,7 @@
 人工智能专业本科生（2027 届），方向是AIGC、计算机视觉、机器学习、具身智能，在钢铁洪流中做人类情感的纽带。
 世界上最伟大的不是算法和代码，而是爱。I don't create sight, I breathe meaning into pixels.
 
-Undergraduate majoring in Artificial Intelligence (Class of 2027), focusing on AIGC, computer vision and machine learning. I aim to serve as a bond for human emotions amid the surging tide of technology.
+Undergraduate majoring in Artificial Intelligence (Class of 2027), focusing on AIGC, computer vision, machine learning and embodied intelligence. I aim to serve as a bond for human emotions amid the surging tide of technology.
 The greatest thing in the world is not algorithms and code, but love.
 I keep this account small on purpose: a few repos I can defend line by line in an interview, each with tests that run in CI and numbers I measured myself rather than estimated.
 
