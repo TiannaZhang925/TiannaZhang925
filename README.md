@@ -11,6 +11,7 @@ I keep this account small on purpose: a few repos I can defend line by line in a
 
 - **[doc-rectify](https://github.com/TiannaZhang925/doc-rectify)** - find a page in a photo and flatten it. The four-point DLT homography solve and the inverse-map bilinear resampler are written on numpy instead of calling `cv2.getPerspectiveTransform` / `cv2.warpPerspective`, so the numerics are visible and testable. 26 unit tests, numpy-only geometry tests run in a separate CI job, and a synthetic ground-truth benchmark that reports corner error as a *signed* offset - which is how I found that my residual was a deterministic 1.5 px dilation bias, plus a benchmark artifact I had written into my own scene generator.
 - **[trendai-marketing](https://github.com/TiannaZhang925/trendai-marketing)** - a Qoder CLI Skill that turns an agent into a social-content operator: trend research, per-platform copy generation, image generation, and a four-dimension scoring rubric. Kept public as a brand-neutral template; the brand profile it writes is a placeholder file.
+- Gathering inspirations.......
 
 ## How I work
 
